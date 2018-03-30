@@ -4,7 +4,7 @@ script:
 notifications:
   webhooks: 
     urls:
-      - https://dimension.dev.t2bot.io/api/v1/dimension/webhooks/travisci/YaLBxTVT3RxGG3kbBo7nwXBajFmUeBD7l2kV80iVuZUWJIZQ9ONG5GaFkqBR00HtN38wDAk8xwyhGlYeEjQn4XLQG7HwLvEHBDr4aAEThxglMguHGGOhTnTupcpddPQyi5mBZmO8VtMerH7gFBPhKGtlylkYfDfIqllZXX4b5O9aZqP8U2IWcsJOHPdUVMr8pirO6qZjuMHuydTYH9ho0tVEVlWa4L8IvAmLsTnNXrCvvcmeoqI0JlcWc0VOfslz
+      - https://dimension.dev.t2bot.io/api/v1/dimension/webhooks/travisci/3KRuKOMuisDKpouuGn9Raygy0eraXhVJWiK8vAKU0bfvqwlx7jmAsw9LVRdIqCaHUODsUFvXXu0Ub2UNCNGueHo8eP2pWAnXAdKgAvQojPcfa1FsmNVdjpGBaOCHkU8UaRKHwILmEnu9Dm5eRgUHhqf14xTKMRTT
     on_success: always  # always|never|change
     on_failure: always
     on_start: always
