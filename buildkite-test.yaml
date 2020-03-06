@@ -13,3 +13,5 @@ steps:
           # out the equivalent dependency branches, if they exist
           propagate-environment: true
           mount-buildkite-agent: false
+    artifact_paths:
+      - "webapp/**/*"
