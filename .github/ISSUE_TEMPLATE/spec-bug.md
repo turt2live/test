@@ -1,6 +1,6 @@
 ---
 name: Documentation error
-about: Report an issue with the spec itself (incorrect text)
+about: Report an issue with the spec itself (incorrect text).
 title: ''
 labels: 'spec-bug'
 assignees: ''
